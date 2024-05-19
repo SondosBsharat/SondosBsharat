@@ -1,5 +1,5 @@
-### Hi there 👋
-<h3>I'm Sondos Bsharat, a passionate Research Assistant at MBZUAI University, deeply immersed in the fascinating realm of machine learning, particularly focused on generative AI, especially large language models. Welcome to my GitHub profile!  </h3>
+<h2>Welcome to my GitHub Page 👋 !, Iam Sondos Bsharat </h2>
+<h4> a passionate Research Assistant at MBZUAI University, deeply immersed in the fascinating realm of machine learning, particularly focused on generative AI, especially large language models.  </h4>
 <!--
 **SondosBsharat/SondosBsharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
